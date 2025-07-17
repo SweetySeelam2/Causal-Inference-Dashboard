@@ -1,0 +1,2397 @@
+treatment_group,outcome_rating,propensity_score,verified_purchase,product_category,total_votes,helpful_votes,segment
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,2,0.7541997419884313,No,Apparel,17,7,Lost Cause
+Prime,3,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.7064714825662864,No,Apparel,34,14,Lost Cause
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7917446375237484,No,Apparel,9,7,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.801613034522268,No,Apparel,26,24,Sleeper
+Prime,4,0.32032095325902354,No,Digital_Music_Purchase,3,2,Lost Cause
+Prime,5,0.8566588715871569,No,Apparel,203,193,Sleeper
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.7688580172659607,No,Apparel,48,37,Lost Cause
+Prime,4,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.12786134791119777,No,Health & Personal Care,3,3,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,1,0.16369803143321748,No,Digital_Music_Purchase,46,11,Lost Cause
+Prime,5,0.7866916547860742,No,Apparel,9,6,Persuadable
+Prime,5,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.12085708462157246,No,Health & Personal Care,2,0,Lost Cause
+Prime,2,0.7064714825662864,No,Apparel,34,14,Lost Cause
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.20969208107631912,Yes,Apparel,4,1,Lost Cause
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.8021538426053292,No,Apparel,10,10,Sleeper
+Prime,5,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,3,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Prime,5,0.22270173475773658,Yes,Apparel,0,0,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7976218597933956,No,Apparel,36,32,Sleeper
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.21932329784011861,Yes,Apparel,3,2,Lost Cause
+Prime,4,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,3,0.7836688596158804,No,Apparel,4,1,Persuadable
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7984448654539739,No,Apparel,12,11,Sleeper
+Prime,4,0.7842758903999808,No,Apparel,5,2,Persuadable
+Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,3,0.7899660967301603,No,Apparel,6,4,Persuadable
+Prime,4,0.3195411050924666,No,Digital_Music_Purchase,2,1,Lost Cause
+Prime,3,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,2,0.7751349620827919,No,Apparel,41,32,Persuadable
+Prime,3,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,3,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,3,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,4,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,4,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.4026622445277671,No,Camera,12,2,Lost Cause
+Prime,4,0.7836688596158804,No,Apparel,4,1,Persuadable
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,5,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Prime,5,0.7744466915184317,No,Apparel,6,1,Persuadable
+Prime,3,0.7809373378164387,No,Apparel,8,4,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,3,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.48319777547424403,No,Camera,27,26,Lost Cause
+Prime,3,0.12226588005193045,No,Health & Personal Care,404,355,Lost Cause
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.4138749780940087,No,Camera,8,0,Lost Cause
+Prime,4,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,4,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7911530266768254,No,Apparel,8,6,Persuadable
+Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.25818916759389826,No,Digital_Video_Download,2,1,Lost Cause
+Prime,4,0.7845941618177171,No,Apparel,14,10,Persuadable
+Prime,3,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,2,0.7872925057686323,No,Apparel,10,7,Persuadable
+Prime,2,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Prime,4,0.3195411050924666,No,Digital_Music_Purchase,2,1,Lost Cause
+Prime,4,0.32896493286917045,No,Digital_Music_Purchase,14,13,Lost Cause
+Prime,5,0.8221389403490984,No,Apparel,72,69,Sleeper
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,2,0.7806460156462973,No,Apparel,16,11,Persuadable
+Prime,4,0.7949617289982128,No,Apparel,6,5,Sure Thing
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7809373378164387,No,Apparel,8,4,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7860895676888668,No,Apparel,8,5,Persuadable
+Prime,4,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,4,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.8358160042115114,No,Apparel,243,223,Sleeper
+Prime,4,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,4,0.7987186440611279,No,Apparel,4,4,Sleeper
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.25818916759389826,No,Digital_Video_Download,2,1,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.3211018065450797,No,Digital_Music_Purchase,4,3,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7987186440611279,No,Apparel,4,4,Sleeper
+Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.25750327617296553,No,Digital_Video_Download,1,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7949617289982128,No,Apparel,6,5,Sure Thing
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Prime,3,0.7738199786949346,No,Apparel,5,0,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,2,0.7827713092099993,No,Apparel,11,7,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.29599276745386427,No,Digital_Music_Purchase,22,15,Lost Cause
+Prime,3,0.7806460156462973,No,Apparel,16,11,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,5,0.7899660967301603,No,Apparel,6,4,Persuadable
+Prime,3,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.7911530266768254,No,Apparel,8,6,Persuadable
+Prime,5,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Prime,3,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,3,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.12238870867953672,No,Health & Personal Care,6,4,Lost Cause
+Prime,4,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.12568901586838085,No,Health & Personal Care,6,5,Lost Cause
+Prime,3,0.776319437867619,No,Apparel,9,4,Persuadable
+Prime,5,0.8265115525444128,No,Apparel,55,55,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.25818916759389826,No,Digital_Video_Download,2,1,Lost Cause
+Prime,5,0.12085708462157246,No,Health & Personal Care,2,0,Lost Cause
+Prime,5,0.7979835870742248,No,Apparel,79,70,Sleeper
+Prime,5,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Prime,3,0.7857152487048236,No,Apparel,304,266,Persuadable
+Prime,5,0.8010137082902168,No,Apparel,8,8,Sleeper
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.7899660967301603,No,Apparel,6,4,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7790922525890631,No,Apparel,5,1,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.7797085155074212,No,Apparel,6,2,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Prime,3,0.7884904992263235,No,Apparel,12,9,Persuadable
+Prime,3,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7227011833774085,No,Apparel,463,395,Lost Cause
+Prime,5,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Prime,5,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,3,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,5,0.3129727666423729,No,Digital_Music_Purchase,2,0,Lost Cause
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,3,0.7643042298834088,No,Apparel,7,0,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.2602539763895949,No,Digital_Video_Download,5,4,Lost Cause
+Prime,5,0.7854862445379855,No,Apparel,7,4,Persuadable
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,2,0.7935710674081532,No,Apparel,46,40,Sure Thing
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7842758903999808,No,Apparel,5,2,Persuadable
+Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,3,0.7848816854105684,No,Apparel,6,3,Persuadable
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,5,0.4684258842394097,No,Camera,2,2,Lost Cause
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,3,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,3,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Prime,5,0.7848816854105684,No,Apparel,6,3,Persuadable
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,4,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.25241414174861626,No,Digital_Video_Download,2,0,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,2,0.7833801623724185,No,Apparel,12,8,Persuadable
+Prime,5,0.7949617289982128,No,Apparel,6,5,Sure Thing
+Prime,3,0.7987186440611279,No,Apparel,4,4,Sleeper
+Prime,5,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,3,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.7911530266768254,No,Apparel,8,6,Persuadable
+Prime,4,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.32032095325902354,No,Digital_Music_Purchase,3,2,Lost Cause
+Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,3,0.6899944358571839,No,Apparel,241,194,Lost Cause
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,2,0.7599549412183583,No,Apparel,441,382,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,2,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Prime,5,0.1270640936921708,No,Health & Personal Care,1,1,Lost Cause
+Prime,3,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7998686429245112,No,Apparel,6,6,Sleeper
+Prime,3,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7992942603238775,No,Apparel,5,5,Sleeper
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.2602539763895949,No,Digital_Video_Download,5,4,Lost Cause
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.12451212346611629,No,Health & Personal Care,3,2,Lost Cause
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,4,0.7992942603238775,No,Apparel,5,5,Sleeper
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.3285495797878528,No,Digital_Music_Purchase,5,5,Lost Cause
+Prime,4,0.7940987219614436,No,Apparel,13,11,Sure Thing
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,2,0.7057482069319082,No,Apparel,211,170,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,5,0.3269701131524728,No,Digital_Music_Purchase,3,3,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,4,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,4,0.765593147074165,No,Apparel,9,2,Lost Cause
+Prime,2,0.7409118430656115,No,Apparel,116,92,Lost Cause
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,3,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.3261818457325034,No,Digital_Music_Purchase,2,2,Lost Cause
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7830605931842805,No,Apparel,3,0,Persuadable
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7899660967301603,No,Apparel,6,4,Persuadable
+Prime,5,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,5,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.4684258842394097,No,Camera,2,2,Lost Cause
+Prime,3,0.2997786454319174,No,Digital_Music_Purchase,44,35,Lost Cause
+Prime,4,0.7854862445379855,No,Apparel,7,4,Persuadable
+Prime,2,0.30383774977195105,No,Digital_Music_Purchase,7,3,Lost Cause
+Prime,4,0.12123843361910774,No,Health & Personal Care,3,1,Lost Cause
+Prime,5,0.7899660967301603,No,Apparel,6,4,Persuadable
+Prime,4,0.010236507795343621,Yes,Health & Personal Care,1,0,Lost Cause
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,3,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7579367088807873,No,Apparel,243,207,Lost Cause
+Prime,5,0.7854862445379855,No,Apparel,7,4,Persuadable
+Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,4,0.7830605931842805,No,Apparel,3,0,Persuadable
+Prime,3,0.7803235439943649,No,Apparel,7,3,Persuadable
+Prime,5,0.3218836618695919,No,Digital_Music_Purchase,5,4,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,2,0.7827713092099993,No,Apparel,11,7,Persuadable
+Prime,5,0.78158064368655,No,Apparel,26,20,Persuadable
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,4,0.7884904992263235,No,Apparel,12,9,Persuadable
+Prime,5,0.7720275611991375,No,Apparel,53,42,Lost Cause
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,3,0.7827713092099993,No,Apparel,11,7,Persuadable
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,5,0.7955453389356472,No,Apparel,7,6,Sure Thing
+Prime,3,0.7809373378164387,No,Apparel,8,4,Persuadable
+Prime,5,0.12085708462157246,No,Health & Personal Care,2,0,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.7803235439943649,No,Apparel,7,3,Persuadable
+Prime,2,0.7790922525890631,No,Apparel,5,1,Persuadable
+Prime,5,0.4711042516129698,No,Camera,5,5,Lost Cause
+Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,5,0.3261818457325034,No,Digital_Music_Purchase,2,2,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.7824817466363946,No,Apparel,19,14,Persuadable
+Prime,5,0.7860895676888668,No,Apparel,8,5,Persuadable
+Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,5,0.7992942603238775,No,Apparel,5,5,Sleeper
+Prime,4,0.3195411050924666,No,Digital_Music_Purchase,2,1,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.7905601797648855,No,Apparel,7,5,Persuadable
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.1270640936921708,No,Health & Personal Care,1,1,Lost Cause
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7836688596158804,No,Apparel,4,1,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7830605931842805,No,Apparel,3,0,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,4,0.7905601797648855,No,Apparel,7,5,Persuadable
+Prime,4,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,2,0.7027414369183147,No,Apparel,29,9,Lost Cause
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7970135294240653,No,Apparel,18,16,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,3,0.7742436875074211,No,Apparel,65,53,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.3269701131524728,No,Digital_Music_Purchase,3,3,Lost Cause
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,5,0.7860895676888668,No,Apparel,8,5,Persuadable
+Prime,5,0.7848816854105684,No,Apparel,6,3,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,4,0.7987186440611279,No,Apparel,4,4,Sleeper
+Prime,5,0.7923350123790284,No,Apparel,10,8,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.8116738631182824,No,Apparel,44,42,Sleeper
+Prime,4,0.46354276887984996,No,Camera,5,4,Lost Cause
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.21932329784011861,Yes,Apparel,3,2,Lost Cause
+Prime,4,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,3,0.3195411050924666,No,Digital_Music_Purchase,2,1,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,5,0.739089192259125,No,Automotive,2,1,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Prime,5,0.7842758903999808,No,Apparel,5,2,Persuadable
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,4,0.1270640936921708,No,Health & Personal Care,1,1,Lost Cause
+Prime,4,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.803854804279733,No,Apparel,13,13,Sleeper
+Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,3,0.7854862445379855,No,Apparel,7,4,Persuadable
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,3,0.7914638496785182,No,Apparel,17,14,Persuadable
+Prime,5,0.9275560673358278,No,Apparel,441,428,Sleeper
+Prime,3,0.7864058920251816,No,Apparel,17,13,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,1,0.7880124878257422,No,Apparel,79,68,Persuadable
+Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.12162081944992373,No,Health & Personal Care,4,2,Lost Cause
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,4,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Prime,4,0.3269701131524728,No,Digital_Music_Purchase,3,3,Lost Cause
+Prime,5,0.47157325191325117,No,Camera,14,13,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7888642274072767,No,Apparel,55,47,Persuadable
+Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,4,0.7944357135332832,No,Apparel,39,34,Sure Thing
+Prime,2,0.7710958193492358,No,Apparel,60,48,Lost Cause
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.8464566860282345,No,Apparel,172,163,Sleeper
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,3,0.7809373378164387,No,Apparel,8,4,Persuadable
+Prime,4,0.8010137082902168,No,Apparel,8,8,Sleeper
+Prime,3,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.7797085155074212,No,Apparel,6,2,Persuadable
+Prime,5,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Prime,3,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,3,0.7706997816570759,No,Apparel,17,10,Lost Cause
+Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7509854017682885,No,Automotive,11,11,Lost Cause
+Prime,4,0.4684258842394097,No,Camera,2,2,Lost Cause
+Prime,5,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7848816854105684,No,Apparel,6,3,Persuadable
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,3,0.7830605931842805,No,Apparel,3,0,Persuadable
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,4,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7917446375237484,No,Apparel,9,7,Persuadable
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,3,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,3,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,3,0.7911530266768254,No,Apparel,8,6,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.8083644710900051,No,Apparel,38,36,Sleeper
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,3,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.467533491571674,No,Camera,1,1,Lost Cause
+Prime,4,0.3183927664041494,No,Digital_Music_Purchase,9,7,Lost Cause
+Prime,4,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,4,0.13111366633542526,No,Health & Personal Care,28,26,Lost Cause
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,5,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.7955453389356472,No,Apparel,7,6,Sure Thing
+Prime,3,0.7848816854105684,No,Apparel,6,3,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7860895676888668,No,Apparel,8,5,Persuadable
+Prime,3,0.7842758903999808,No,Apparel,5,2,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.12451212346611629,No,Health & Personal Care,3,2,Lost Cause
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,5,0.46931847891430695,No,Camera,3,3,Lost Cause
+Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,3,0.3218836618695919,No,Digital_Music_Purchase,5,4,Lost Cause
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.7803544150236151,No,Apparel,24,18,Persuadable
+Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,3,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,4,0.7809373378164387,No,Apparel,8,4,Persuadable
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Prime,5,0.7998686429245112,No,Apparel,6,6,Sleeper
+Prime,5,0.7902782179507423,No,Apparel,15,12,Persuadable
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7899660967301603,No,Apparel,6,4,Persuadable
+Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,5,0.7851993078493767,No,Apparel,15,11,Persuadable
+Prime,4,0.7935120544857872,No,Apparel,12,10,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.3261818457325034,No,Digital_Music_Purchase,2,2,Lost Cause
+Prime,4,0.7246318143738973,No,Apparel,25,9,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.8840139220089148,No,Apparel,220,216,Sleeper
+Prime,4,0.12085708462157246,No,Health & Personal Care,2,0,Lost Cause
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Prime,2,0.33512760446003176,No,Apparel,886,714,Lost Cause
+Prime,2,0.1109815642920341,No,Health & Personal Care,9,3,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.7872925057686323,No,Apparel,10,7,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.7842758903999808,No,Apparel,5,2,Persuadable
+Prime,3,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7998686429245112,No,Apparel,6,6,Sleeper
+Prime,3,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7815498967569529,No,Apparel,9,5,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7870073300158484,No,Apparel,18,14,Persuadable
+Prime,3,0.7842758903999808,No,Apparel,5,2,Persuadable
+Prime,4,0.33452702980246923,No,Digital_Music_Purchase,21,20,Lost Cause
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.807780650134723,No,Apparel,20,20,Sleeper
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.7987186440611279,No,Apparel,4,4,Sleeper
+Prime,2,0.7873528198575146,No,Apparel,44,37,Persuadable
+Prime,5,0.7852296822759769,No,Apparel,32,26,Persuadable
+Prime,2,0.7407389438146826,No,Apparel,31,17,Lost Cause
+Prime,5,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,3,0.8098181017959454,No,Apparel,83,76,Sleeper
+Prime,3,0.7551784225897603,No,Apparel,10,1,Lost Cause
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.23820067330578304,No,Digital_Video_Download,6,1,Lost Cause
+Prime,5,0.7917446375237484,No,Apparel,9,7,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.3030801368291545,No,Digital_Music_Purchase,6,2,Lost Cause
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.22270173475773658,Yes,Apparel,0,0,Lost Cause
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,3,0.7830605931842805,No,Apparel,3,0,Persuadable
+Prime,4,0.7842758903999808,No,Apparel,5,2,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,2,0.7659630428378459,No,Apparel,35,25,Lost Cause
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,2,0.7156206825151157,No,Apparel,21,4,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,2,0.7420787779992427,No,Apparel,16,4,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.13049216660528484,No,Health & Personal Care,18,17,Lost Cause
+Prime,5,0.7784747554895752,No,Apparel,4,0,Persuadable
+Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,3,0.7948045634564358,No,Apparel,421,371,Sure Thing
+Prime,5,0.8018835775059225,No,Apparel,18,17,Sleeper
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,5,0.7878921205916636,No,Apparel,11,8,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Prime,3,0.7949617289982128,No,Apparel,6,5,Sure Thing
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,3,0.7836688596158804,No,Apparel,4,1,Persuadable
+Prime,3,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.25818916759389826,No,Digital_Video_Download,2,1,Lost Cause
+Prime,5,0.7932197120647564,No,Apparel,181,159,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.31528948229471604,No,Digital_Music_Purchase,5,3,Lost Cause
+Prime,4,0.3226665161307144,No,Digital_Music_Purchase,6,5,Lost Cause
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.31374397576805685,No,Digital_Music_Purchase,3,1,Lost Cause
+Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.3261818457325034,No,Digital_Music_Purchase,2,2,Lost Cause
+Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,3,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,3,0.3129727666423729,No,Digital_Music_Purchase,2,0,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,5,0.4684258842394097,No,Camera,2,2,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.3218836618695919,No,Digital_Music_Purchase,5,4,Lost Cause
+Prime,2,0.12218351016451158,No,Digital_Music_Purchase,78,28,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7998686429245112,No,Apparel,6,6,Sleeper
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,4,0.7854862445379855,No,Apparel,7,4,Persuadable
+Prime,4,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Prime,2,0.7675173363729713,No,Apparel,12,5,Lost Cause
+Prime,4,0.7899660967301603,No,Apparel,6,4,Persuadable
+Prime,4,0.7797085155074212,No,Apparel,6,2,Persuadable
+Prime,4,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,2,0.12162081944992373,No,Health & Personal Care,4,2,Lost Cause
+Prime,5,0.31451621528683904,No,Digital_Music_Purchase,4,2,Lost Cause
+Prime,4,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,3,0.7923646445911156,No,Apparel,27,23,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.46931847891430695,No,Camera,3,3,Lost Cause
+Prime,2,0.6986259386012693,No,Apparel,32,11,Lost Cause
+Prime,4,0.3261818457325034,No,Digital_Music_Purchase,2,2,Lost Cause
+Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,3,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Prime,5,0.3269701131524728,No,Digital_Music_Purchase,3,3,Lost Cause
+Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,3,0.7769412214077258,No,Apparel,10,5,Persuadable
+Prime,3,0.7654492641001147,No,Apparel,102,84,Lost Cause
+Prime,2,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,4,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,4,0.7836688596158804,No,Apparel,4,1,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7652082607751725,No,Apparel,144,121,Lost Cause
+Prime,3,0.775260503773911,No,Apparel,109,92,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.12746218852478497,No,Health & Personal Care,2,2,Lost Cause
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7872925057686323,No,Apparel,10,7,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.7308641802995733,No,Apparel,127,100,Lost Cause
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.20528660701953505,Yes,Apparel,5,1,Lost Cause
+Prime,4,0.31761541889871403,No,Digital_Music_Purchase,8,6,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Prime,5,0.7879824006989382,No,Apparel,62,53,Persuadable
+Prime,4,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,5,0.7848816854105684,No,Apparel,6,3,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,4,0.46086993072516447,No,Camera,2,1,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Prime,5,0.7866916547860742,No,Apparel,9,6,Persuadable
+Prime,5,0.7571940998134149,No,Apparel,30,19,Lost Cause
+Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,3,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.3261818457325034,No,Digital_Music_Purchase,2,2,Lost Cause
+Prime,3,0.7961861711189593,No,Apparel,42,37,Sure Thing
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.801613034522268,No,Apparel,26,24,Sleeper
+Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Prime,5,0.7944063001985529,No,Apparel,22,19,Sure Thing
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.7866916547860742,No,Apparel,9,6,Persuadable
+Prime,5,0.7884904992263235,No,Apparel,12,9,Persuadable
+Prime,4,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,4,0.8189457299528771,No,Apparel,49,48,Sleeper
+Prime,5,0.46931847891430695,No,Camera,3,3,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,5,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,5,0.467533491571674,No,Camera,1,1,Lost Cause
+Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Prime,4,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,3,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.7772672408988884,No,Apparel,19,13,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,3,0.44097230134351206,No,Camera,5,1,Lost Cause
+Prime,3,0.7738514987939115,No,Apparel,22,15,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.787637657853525,No,Apparel,36,30,Persuadable
+Prime,3,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,3,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Prime,5,0.7744466915184317,No,Apparel,6,1,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Prime,4,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7905601797648855,No,Apparel,7,5,Persuadable
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,5,0.755681020433029,No,Automotive,35,33,Lost Cause
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,4,0.7945533356794423,No,Apparel,107,94,Sure Thing
+Prime,3,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7830605931842805,No,Apparel,3,0,Persuadable
+Prime,4,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.46358755491084,No,Camera,22,19,Lost Cause
+Prime,5,0.3301329336701795,No,Digital_Music_Purchase,7,7,Lost Cause
+Prime,5,0.7992942603238775,No,Apparel,5,5,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,2,0.7839877799529255,No,Apparel,13,9,Persuadable
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.7955746312472832,No,Apparel,24,21,Sure Thing
+Prime,4,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Prime,2,0.7794779426804356,No,Apparel,48,39,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.604977478761441,No,Apparel,35,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,3,0.7987186440611279,No,Apparel,4,4,Sleeper
+Prime,5,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,3,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,4,0.12826157355295062,No,Health & Personal Care,4,4,Lost Cause
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.12826157355295062,No,Health & Personal Care,4,4,Lost Cause
+Prime,5,0.22332280910588734,Yes,Apparel,1,1,Lost Cause
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,4,0.4684258842394097,No,Camera,2,2,Lost Cause
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,3,0.7967088535680095,No,Apparel,9,8,Sleeper
+Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Prime,3,0.30876888165708494,No,Digital_Music_Purchase,5,2,Lost Cause
+Prime,5,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,5,0.8001697709400454,No,Apparel,15,14,Sleeper
+Prime,3,0.3211018065450797,No,Digital_Music_Purchase,4,3,Lost Cause
+Prime,2,0.7729250189233754,No,Apparel,29,21,Lost Cause
+Prime,3,0.7697323111787742,No,Apparel,7,1,Lost Cause
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,3,0.7855165894729708,No,Apparel,24,19,Persuadable
+Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7911530266768254,No,Apparel,8,6,Persuadable
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,1,0.7614026427816207,No,Apparel,11,3,Lost Cause
+Prime,3,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,3,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.26335372031219295,No,Digital_Video_Download,1,1,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.26544505206388264,No,Digital_Video_Download,4,4,Lost Cause
+Prime,5,0.7797085155074212,No,Apparel,6,2,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.21630075957971828,Yes,Apparel,15,12,Lost Cause
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.4587560713971711,No,Camera,42,36,Lost Cause
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7987186440611279,No,Apparel,4,4,Sleeper
+Prime,5,0.25750327617296553,No,Digital_Video_Download,1,0,Lost Cause
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,3,0.776319437867619,No,Apparel,9,4,Persuadable
+Prime,3,0.11748998025535652,No,Health & Personal Care,10,6,Lost Cause
+Prime,5,0.21932329784011861,Yes,Apparel,3,2,Lost Cause
+Prime,3,0.7870375181170506,No,Apparel,35,29,Persuadable
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7878921205916636,No,Apparel,11,8,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,5,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,2,0.30383774977195105,No,Digital_Music_Purchase,7,3,Lost Cause
+Prime,3,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7876075318662966,No,Apparel,19,15,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,4,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.7836688596158804,No,Apparel,4,1,Persuadable
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,3,0.12123843361910774,No,Health & Personal Care,3,1,Lost Cause
+Prime,3,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Prime,4,0.7926445373081527,No,Apparel,19,16,Sure Thing
+Prime,4,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,4,0.7769412214077258,No,Apparel,10,5,Persuadable
+Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,3,0.7728934075903463,No,Apparel,12,6,Lost Cause
+Prime,3,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,3,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Prime,4,0.2714455920356264,No,Digital_Video_Download,21,20,Lost Cause
+Prime,3,0.7794160207638358,No,Apparel,14,9,Persuadable
+Prime,3,0.7507123406875856,No,Apparel,105,84,Lost Cause
+Prime,1,0.6514151708068464,No,Apparel,99,63,Lost Cause
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.7860895676888668,No,Apparel,8,5,Persuadable
+Prime,3,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Prime,3,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.781259161028732,No,Apparel,17,12,Persuadable
+Prime,5,0.4595567104611428,No,Camera,9,7,Lost Cause
+Prime,3,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7998686429245112,No,Apparel,6,6,Sleeper
+Prime,4,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.22270173475773658,Yes,Apparel,0,0,Lost Cause
+Prime,3,0.776319437867619,No,Apparel,9,4,Persuadable
+Prime,5,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,4,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,3,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.12490336692855485,No,Health & Personal Care,4,3,Lost Cause
+Prime,5,0.22270173475773658,Yes,Apparel,0,0,Lost Cause
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.3285495797878528,No,Digital_Music_Purchase,5,5,Lost Cause
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,4,0.3195411050924666,No,Digital_Music_Purchase,2,1,Lost Cause
+Prime,3,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.467533491571674,No,Camera,1,1,Lost Cause
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,1,0.5559710810412086,No,Apparel,250,183,Lost Cause
+Prime,3,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,3,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,3,0.12085708462157246,No,Health & Personal Care,2,0,Lost Cause
+Prime,2,0.24831781787518378,No,Apparel,302,185,Lost Cause
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.22055316926686364,Yes,Apparel,5,4,Lost Cause
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Prime,4,0.7905601797648855,No,Apparel,7,5,Persuadable
+Prime,5,0.3019647026916026,No,Digital_Music_Purchase,13,8,Lost Cause
+Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Prime,5,0.8086558738471183,No,Apparel,47,44,Sleeper
+Prime,5,0.7801243275985271,No,Apparel,66,55,Persuadable
+Prime,3,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,4,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,5,0.7984738475817098,No,Apparel,29,26,Sleeper
+Prime,5,0.7854862445379855,No,Apparel,7,4,Persuadable
+Prime,4,0.7864058920251816,No,Apparel,17,13,Persuadable
+Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,3,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,5,0.7710640287958218,No,Apparel,43,33,Lost Cause
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7899660967301603,No,Apparel,6,4,Persuadable
+Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,2,0.7923350123790284,No,Apparel,10,8,Persuadable
+Prime,4,0.7888342287725915,No,Apparel,38,32,Persuadable
+Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,4,0.7842758903999808,No,Apparel,5,2,Persuadable
+Prime,4,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,4,0.7836688596158804,No,Apparel,4,1,Persuadable
+Prime,2,0.7643042298834088,No,Apparel,7,0,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.46222846225593234,No,Camera,12,10,Lost Cause
+Prime,2,0.7797085155074212,No,Apparel,6,2,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.8109196974593276,No,Apparel,85,78,Sleeper
+Prime,5,0.7950204346366577,No,Apparel,40,35,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Prime,3,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.46265158238482706,No,Camera,4,3,Lost Cause
+Prime,4,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Prime,5,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Prime,5,0.7836688596158804,No,Apparel,4,1,Persuadable
+Prime,5,0.7397797775699259,No,Automotive,3,2,Lost Cause
+Prime,5,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7842758903999808,No,Apparel,5,2,Persuadable
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Prime,5,0.7842758903999808,No,Apparel,5,2,Persuadable
+Prime,3,0.12451212346611629,No,Health & Personal Care,3,2,Lost Cause
+Prime,5,0.7938202815538706,No,Apparel,21,18,Sure Thing
+Prime,5,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Prime,3,0.8021538426053292,No,Apparel,10,10,Sleeper
+Prime,4,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,5,0.25750327617296553,No,Digital_Video_Download,1,0,Lost Cause
+Prime,4,0.26232945852263245,No,Digital_Video_Download,8,7,Lost Cause
+Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Prime,5,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Prime,5,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Prime,2,0.776319437867619,No,Apparel,9,4,Persuadable
+Prime,5,0.467533491571674,No,Camera,1,1,Lost Cause
+Prime,4,0.7920251466433884,No,Apparel,1,0,Persuadable
+Prime,4,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Prime,1,0.6732147841799329,No,Apparel,194,150,Lost Cause
+Prime,3,0.7998686429245112,No,Apparel,6,6,Sleeper
+Prime,4,0.7842758903999808,No,Apparel,5,2,Persuadable
+Prime,5,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Prime,4,0.4484733995763413,No,Camera,5,2,Lost Cause
+Prime,4,0.7987186440611279,No,Apparel,4,4,Sleeper
+Prime,5,0.7803235439943649,No,Apparel,7,3,Persuadable
+Prime,3,0.7837299189493132,No,Apparel,38,31,Persuadable
+Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,5,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,4,0.32032095325902354,No,Digital_Music_Purchase,3,2,Lost Cause
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,2,0.7854862445379855,No,Apparel,7,4,Persuadable
+Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Prime,4,0.7981417938668754,No,Apparel,3,3,Sleeper
+Prime,2,0.7502249660268921,No,Apparel,28,16,Lost Cause
+Prime,5,0.7750721725708467,No,Apparel,7,2,Persuadable
+Prime,5,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Prime,4,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Prime,4,0.7969843906800329,No,Apparel,1,1,Sleeper
+Prime,3,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Prime,5,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Prime,5,0.8510037502082678,No,Apparel,648,584,Sleeper
+Prime,4,0.26335372031219295,No,Digital_Video_Download,1,1,Lost Cause
+Prime,5,0.46664130657284103,No,Camera,0,0,Lost Cause
+Prime,5,0.7842758903999808,No,Apparel,5,2,Persuadable
+Prime,4,0.7926149345857402,No,Apparel,2,1,Persuadable
+Prime,5,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Prime,5,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7548635975968858,No,Apparel,18,8,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,1,0.729274031562128,No,Apparel,40,23,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7917446375237484,No,Apparel,9,7,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.8022681476897101,No,Apparel,78,70,Sleeper
+Non-Prime,5,0.32032095325902354,No,Digital_Music_Purchase,3,2,Lost Cause
+Non-Prime,3,0.8345204800607552,No,Apparel,198,183,Sleeper
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,1,0.7687939978298413,No,Apparel,14,7,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.12786134791119777,No,Health & Personal Care,3,3,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.16366131383043578,No,Grocery,0,0,Lost Cause
+Non-Prime,3,0.7864058920251816,No,Apparel,17,13,Persuadable
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.12085708462157246,No,Health & Personal Care,2,0,Lost Cause
+Non-Prime,1,0.729274031562128,No,Apparel,40,23,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,5,0.21006299589450853,No,Electronics,2,2,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,3,0.8022681476897101,No,Apparel,78,70,Sleeper
+Non-Prime,5,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,5,0.22270173475773658,Yes,Apparel,0,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.21932329784011861,Yes,Apparel,3,2,Lost Cause
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7836688596158804,No,Apparel,4,1,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,3,0.7845941618177171,No,Apparel,14,10,Persuadable
+Non-Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,4,0.7899660967301603,No,Apparel,6,4,Persuadable
+Non-Prime,5,0.3195411050924666,No,Digital_Music_Purchase,2,1,Lost Cause
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7744466915184317,No,Apparel,6,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.4028293300229344,No,Digital_Music_Purchase,120,117,Lost Cause
+Non-Prime,5,0.7836688596158804,No,Apparel,4,1,Persuadable
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,2,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Non-Prime,5,0.7744466915184317,No,Apparel,6,1,Persuadable
+Non-Prime,1,0.781259161028732,No,Apparel,17,12,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.12238870867953672,No,Health & Personal Care,6,4,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.4028293300229344,No,Digital_Music_Purchase,120,117,Lost Cause
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7917446375237484,No,Apparel,9,7,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,1,0.261180766008423,No,Digital_Music_Purchase,16,4,Lost Cause
+Non-Prime,3,0.7845941618177171,No,Apparel,14,10,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Non-Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Non-Prime,5,0.3195411050924666,No,Digital_Music_Purchase,2,1,Lost Cause
+Non-Prime,5,0.3293407724694595,No,Digital_Music_Purchase,6,6,Lost Cause
+Non-Prime,5,0.8176267266141491,No,Apparel,55,53,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,1,0.781259161028732,No,Apparel,17,12,Persuadable
+Non-Prime,4,0.7949617289982128,No,Apparel,6,5,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,1,0.781259161028732,No,Apparel,17,12,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.7860895676888668,No,Apparel,8,5,Persuadable
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,3,0.8345204800607552,No,Apparel,198,183,Sleeper
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,1,0.261180766008423,No,Digital_Music_Purchase,16,4,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.3211018065450797,No,Digital_Music_Purchase,4,3,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,1,0.261180766008423,No,Digital_Music_Purchase,16,4,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7949617289982128,No,Apparel,6,5,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Non-Prime,2,0.7735219363971924,No,Apparel,13,7,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7827713092099993,No,Apparel,11,7,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,1,0.29595523931093093,No,Digital_Music_Purchase,5,0,Lost Cause
+Non-Prime,1,0.781259161028732,No,Apparel,17,12,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,4,0.7899660967301603,No,Apparel,6,4,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7917446375237484,No,Apparel,9,7,Persuadable
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.12238870867953672,No,Health & Personal Care,6,4,Lost Cause
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.12568901586838085,No,Health & Personal Care,6,5,Lost Cause
+Non-Prime,4,0.776319437867619,No,Apparel,9,4,Persuadable
+Non-Prime,3,0.8345204800607552,No,Apparel,198,183,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,1,0.261180766008423,No,Digital_Music_Purchase,16,4,Lost Cause
+Non-Prime,5,0.12085708462157246,No,Health & Personal Care,2,0,Lost Cause
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,2,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Non-Prime,5,0.7858032179468102,No,Apparel,16,12,Persuadable
+Non-Prime,5,0.7998686429245112,No,Apparel,6,6,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7899660967301603,No,Apparel,6,4,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,1,0.729274031562128,No,Apparel,40,23,Lost Cause
+Non-Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Non-Prime,5,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,4,0.3129727666423729,No,Digital_Music_Purchase,2,0,Lost Cause
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,2,0.7646431243342748,No,Apparel,16,8,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,1,0.261180766008423,No,Digital_Music_Purchase,16,4,Lost Cause
+Non-Prime,4,0.7854862445379855,No,Apparel,7,4,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,3,0.7845941618177171,No,Apparel,14,10,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,2,0.7848816854105684,No,Apparel,6,3,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Non-Prime,2,0.7848816854105684,No,Apparel,6,3,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,1,0.25164836637924926,No,Digital_Music_Purchase,19,5,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7833801623724185,No,Apparel,12,8,Persuadable
+Non-Prime,4,0.7949617289982128,No,Apparel,6,5,Sure Thing
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7917446375237484,No,Apparel,9,7,Persuadable
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.32032095325902354,No,Digital_Music_Purchase,3,2,Lost Cause
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.6824225807745464,No,Baby,0,0,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,4,0.7607508830340137,No,Apparel,10,2,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,5,0.1270640936921708,No,Health & Personal Care,1,1,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7998686429245112,No,Apparel,6,6,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7992942603238775,No,Apparel,5,5,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,1,0.261180766008423,No,Digital_Music_Purchase,16,4,Lost Cause
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.12451212346611629,No,Health & Personal Care,3,2,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,5,0.7992942603238775,No,Apparel,5,5,Sleeper
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.3285495797878528,No,Digital_Music_Purchase,5,5,Lost Cause
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.6824225807745464,No,Baby,0,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,5,0.3269701131524728,No,Digital_Music_Purchase,3,3,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.7649493004883758,No,Apparel,8,1,Lost Cause
+Non-Prime,1,0.7413921610677957,No,Apparel,15,3,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.3261818457325034,No,Digital_Music_Purchase,2,2,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.7899660967301603,No,Apparel,6,4,Persuadable
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.2989513101537815,No,Digital_Music_Purchase,9,4,Lost Cause
+Non-Prime,4,0.7854862445379855,No,Apparel,7,4,Persuadable
+Non-Prime,4,0.30383774977195105,No,Digital_Music_Purchase,7,3,Lost Cause
+Non-Prime,3,0.12123843361910774,No,Health & Personal Care,3,1,Lost Cause
+Non-Prime,4,0.7899660967301603,No,Apparel,6,4,Persuadable
+Non-Prime,5,0.010236507795343621,Yes,Health & Personal Care,1,0,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,3,0.7571609865956797,No,Apparel,13,4,Lost Cause
+Non-Prime,4,0.7854862445379855,No,Apparel,7,4,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,4,0.3218836618695919,No,Digital_Music_Purchase,5,4,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,2,0.7827713092099993,No,Apparel,11,7,Persuadable
+Non-Prime,5,0.7815498967569529,No,Apparel,9,5,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,1,0.7719641592646793,No,Apparel,19,12,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,2,0.7827713092099993,No,Apparel,11,7,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.7955453389356472,No,Apparel,7,6,Sure Thing
+Non-Prime,1,0.781259161028732,No,Apparel,17,12,Persuadable
+Non-Prime,5,0.12085708462157246,No,Health & Personal Care,2,0,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.3261818457325034,No,Digital_Music_Purchase,2,2,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7827713092099993,No,Apparel,11,7,Persuadable
+Non-Prime,4,0.7860895676888668,No,Apparel,8,5,Persuadable
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,5,0.7992942603238775,No,Apparel,5,5,Sleeper
+Non-Prime,5,0.3195411050924666,No,Digital_Music_Purchase,2,1,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7905601797648855,No,Apparel,7,5,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.1270640936921708,No,Health & Personal Care,1,1,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7836688596158804,No,Apparel,4,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,4,0.7905601797648855,No,Apparel,7,5,Persuadable
+Non-Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.6824225807745464,No,Baby,0,0,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7744466915184317,No,Apparel,6,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.3269701131524728,No,Digital_Music_Purchase,3,3,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,4,0.7860895676888668,No,Apparel,8,5,Persuadable
+Non-Prime,2,0.7848816854105684,No,Apparel,6,3,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,5,0.7923350123790284,No,Apparel,10,8,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.8113859845037992,No,Apparel,35,34,Sleeper
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.21932329784011861,Yes,Apparel,3,2,Lost Cause
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.3195411050924666,No,Digital_Music_Purchase,2,1,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,1,0.7413921610677957,No,Apparel,15,3,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Non-Prime,3,0.7845941618177171,No,Apparel,14,10,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.1270640936921708,No,Health & Personal Care,1,1,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,4,0.8041797658871404,No,Apparel,39,36,Sleeper
+Non-Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Non-Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,4,0.7854862445379855,No,Apparel,7,4,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7917446375237484,No,Apparel,9,7,Persuadable
+Non-Prime,5,0.9004025868520056,No,Apparel,310,301,Sleeper
+Non-Prime,3,0.7864058920251816,No,Apparel,17,13,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.12162081944992373,No,Health & Personal Care,4,2,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,5,0.3269701131524728,No,Digital_Music_Purchase,3,3,Lost Cause
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,4,0.7710004383767488,No,Apparel,9,3,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,3,0.8345204800607552,No,Apparel,198,183,Sleeper
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,1,0.781259161028732,No,Apparel,17,12,Persuadable
+Non-Prime,5,0.7998686429245112,No,Apparel,6,6,Sleeper
+Non-Prime,2,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,2,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.7710004383767488,No,Apparel,9,3,Lost Cause
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,3,0.7498721018849952,No,Apparel,19,8,Lost Cause
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7848816854105684,No,Apparel,6,3,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7917446375237484,No,Apparel,9,7,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7917446375237484,No,Apparel,9,7,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.8113859845037992,No,Apparel,35,34,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,3,0.3183927664041494,No,Digital_Music_Purchase,9,7,Lost Cause
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,4,0.1310931501372005,No,Health & Personal Care,11,11,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,5,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7955453389356472,No,Apparel,7,6,Sure Thing
+Non-Prime,2,0.7848816854105684,No,Apparel,6,3,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.7860895676888668,No,Apparel,8,5,Persuadable
+Non-Prime,3,0.7845941618177171,No,Apparel,14,10,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.12451212346611629,No,Health & Personal Care,3,2,Lost Cause
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.3218836618695919,No,Digital_Music_Purchase,5,4,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,1,0.781259161028732,No,Apparel,17,12,Persuadable
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,5,0.7998686429245112,No,Apparel,6,6,Sleeper
+Non-Prime,1,0.7902782179507423,No,Apparel,15,12,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7899660967301603,No,Apparel,6,4,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,4,0.7854862445379855,No,Apparel,7,4,Persuadable
+Non-Prime,5,0.7932625648063703,No,Apparel,37,32,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.3261818457325034,No,Digital_Music_Purchase,2,2,Lost Cause
+Non-Prime,1,0.729274031562128,No,Apparel,40,23,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.9004025868520056,No,Apparel,310,301,Sleeper
+Non-Prime,5,0.12085708462157246,No,Health & Personal Care,2,0,Lost Cause
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,5,0.33410815060287496,No,Digital_Music_Purchase,12,12,Lost Cause
+Non-Prime,4,0.1109815642920341,No,Health & Personal Care,9,3,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.7845941618177171,No,Apparel,14,10,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7998686429245112,No,Apparel,6,6,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7815498967569529,No,Apparel,9,5,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7870073300158484,No,Apparel,18,14,Persuadable
+Non-Prime,3,0.7845941618177171,No,Apparel,14,10,Persuadable
+Non-Prime,5,0.33410815060287496,No,Digital_Music_Purchase,12,12,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.8052087092248504,No,Apparel,151,135,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,4,0.7854862445379855,No,Apparel,7,4,Persuadable
+Non-Prime,1,0.7413921610677957,No,Apparel,15,3,Lost Cause
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.8113859845037992,No,Apparel,35,34,Sleeper
+Non-Prime,1,0.7548969226743013,No,Apparel,35,23,Lost Cause
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.23616872167514238,No,Digital_Music_Purchase,21,4,Lost Cause
+Non-Prime,5,0.7917446375237484,No,Apparel,9,7,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.3030801368291545,No,Digital_Music_Purchase,6,2,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.22270173475773658,Yes,Apparel,0,0,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Non-Prime,3,0.7845941618177171,No,Apparel,14,10,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7649493004883758,No,Apparel,8,1,Lost Cause
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,1,0.729274031562128,No,Apparel,40,23,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7422510946375677,No,Apparel,101,79,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.13068541346114437,No,Health & Personal Care,10,10,Lost Cause
+Non-Prime,3,0.7778871435624638,No,Apparel,20,14,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,4,0.7949617289982128,No,Apparel,6,5,Sure Thing
+Non-Prime,3,0.8022681476897101,No,Apparel,78,70,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,4,0.7949617289982128,No,Apparel,6,5,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Non-Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7836688596158804,No,Apparel,4,1,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,1,0.261180766008423,No,Digital_Music_Purchase,16,4,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.31528948229471604,No,Digital_Music_Purchase,5,3,Lost Cause
+Non-Prime,5,0.3226665161307144,No,Digital_Music_Purchase,6,5,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.31374397576805685,No,Digital_Music_Purchase,3,1,Lost Cause
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.3261818457325034,No,Digital_Music_Purchase,2,2,Lost Cause
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,4,0.3129727666423729,No,Digital_Music_Purchase,2,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.3218836618695919,No,Digital_Music_Purchase,5,4,Lost Cause
+Non-Prime,5,0.12204283357220286,No,Health & Personal Care,39,33,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7998686429245112,No,Apparel,6,6,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,4,0.7854862445379855,No,Apparel,7,4,Persuadable
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Non-Prime,1,0.7687939978298413,No,Apparel,14,7,Lost Cause
+Non-Prime,4,0.7899660967301603,No,Apparel,6,4,Persuadable
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.12162081944992373,No,Health & Personal Care,4,2,Lost Cause
+Non-Prime,5,0.31451621528683904,No,Digital_Music_Purchase,4,2,Lost Cause
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7923350123790284,No,Apparel,10,8,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.6824225807745464,No,Baby,0,0,Lost Cause
+Non-Prime,5,0.3261818457325034,No,Digital_Music_Purchase,2,2,Lost Cause
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Non-Prime,5,0.3269701131524728,No,Digital_Music_Purchase,3,3,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,3,0.7772984188509569,No,Apparel,36,28,Persuadable
+Non-Prime,5,0.7649493004883758,No,Apparel,8,1,Lost Cause
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7836688596158804,No,Apparel,4,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7649493004883758,No,Apparel,8,1,Lost Cause
+Non-Prime,5,0.7744466915184317,No,Apparel,6,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.12746218852478497,No,Health & Personal Care,2,2,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,1,0.729274031562128,No,Apparel,40,23,Lost Cause
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.20704642424138017,Yes,Apparel,8,4,Lost Cause
+Non-Prime,4,0.3168390870570038,No,Digital_Music_Purchase,7,5,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,2,0.7848816854105684,No,Apparel,6,3,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Non-Prime,3,0.7864058920251816,No,Apparel,17,13,Persuadable
+Non-Prime,3,0.7571609865956797,No,Apparel,13,4,Lost Cause
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.3261818457325034,No,Digital_Music_Purchase,2,2,Lost Cause
+Non-Prime,5,0.7961569439832855,No,Apparel,25,22,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.8022681476897101,No,Apparel,78,70,Sleeper
+Non-Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,3,0.7864058920251816,No,Apparel,17,13,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.8176267266141491,No,Apparel,55,53,Sleeper
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,3,0.7772984188509569,No,Apparel,36,28,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.43795139249108533,No,Health & Personal Care,1842,1680,Lost Cause
+Non-Prime,2,0.7735219363971924,No,Apparel,13,7,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7876075318662966,No,Apparel,19,15,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Non-Prime,5,0.7744466915184317,No,Apparel,6,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7905601797648855,No,Apparel,7,5,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,1,0.7548969226743013,No,Apparel,35,23,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Non-Prime,5,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.3301329336701795,No,Digital_Music_Purchase,7,7,Lost Cause
+Non-Prime,5,0.7992942603238775,No,Apparel,5,5,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7836688596158804,No,Apparel,4,1,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7955453389356472,No,Apparel,7,6,Sure Thing
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.6151450256710702,No,Beauty,1,1,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,2,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,5,0.12826157355295062,No,Health & Personal Care,4,4,Lost Cause
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.12826157355295062,No,Health & Personal Care,4,4,Lost Cause
+Non-Prime,3,0.22332280910588734,Yes,Apparel,1,1,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7967088535680095,No,Apparel,9,8,Sleeper
+Non-Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,1,0.30876888165708494,No,Digital_Music_Purchase,5,2,Lost Cause
+Non-Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,5,0.7998686429245112,No,Apparel,6,6,Sleeper
+Non-Prime,3,0.3211018065450797,No,Digital_Music_Purchase,4,3,Lost Cause
+Non-Prime,2,0.7735219363971924,No,Apparel,13,7,Lost Cause
+Non-Prime,1,0.7687939978298413,No,Apparel,14,7,Lost Cause
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,4,0.7854862445379855,No,Apparel,7,4,Persuadable
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7917446375237484,No,Apparel,9,7,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.7607508830340137,No,Apparel,10,2,Lost Cause
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,1,0.261180766008423,No,Digital_Music_Purchase,16,4,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,1,0.26608634506289813,No,Digital_Music_Purchase,40,26,Lost Cause
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.2153755516110463,Yes,Apparel,5,3,Lost Cause
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,1,0.261180766008423,No,Digital_Music_Purchase,16,4,Lost Cause
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,4,0.776319437867619,No,Apparel,9,4,Persuadable
+Non-Prime,5,0.11711885040474182,No,Health & Personal Care,9,5,Lost Cause
+Non-Prime,5,0.21932329784011861,Yes,Apparel,3,2,Lost Cause
+Non-Prime,5,0.7870073300158484,No,Apparel,18,14,Persuadable
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,4,0.30383774977195105,No,Digital_Music_Purchase,7,3,Lost Cause
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7876075318662966,No,Apparel,19,15,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7830605931842805,No,Apparel,3,0,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7836688596158804,No,Apparel,4,1,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,3,0.12123843361910774,No,Health & Personal Care,3,1,Lost Cause
+Non-Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,3,0.7772984188509569,No,Apparel,36,28,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,2,0.7735219363971924,No,Apparel,13,7,Lost Cause
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Non-Prime,1,0.26952982158296523,No,Digital_Music_Purchase,11,1,Lost Cause
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,3,0.7498721018849952,No,Apparel,19,8,Lost Cause
+Non-Prime,4,0.6708627353937996,No,Apparel,30,5,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.7860895676888668,No,Apparel,8,5,Persuadable
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,1,0.781259161028732,No,Apparel,17,12,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7998686429245112,No,Apparel,6,6,Sleeper
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,5,0.22270173475773658,Yes,Apparel,0,0,Lost Cause
+Non-Prime,4,0.776319437867619,No,Apparel,9,4,Persuadable
+Non-Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.12490336692855485,No,Health & Personal Care,4,3,Lost Cause
+Non-Prime,5,0.22270173475773658,Yes,Apparel,0,0,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,5,0.3285495797878528,No,Digital_Music_Purchase,5,5,Lost Cause
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.3195411050924666,No,Digital_Music_Purchase,2,1,Lost Cause
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,1,0.5673293038523806,No,Apparel,51,9,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.12085708462157246,No,Health & Personal Care,2,0,Lost Cause
+Non-Prime,1,0.24998151968259638,No,Digital_Music_Purchase,25,10,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.22055316926686364,Yes,Apparel,5,4,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,4,0.12412193169753141,No,Health & Personal Care,2,1,Lost Cause
+Non-Prime,4,0.7905601797648855,No,Apparel,7,5,Persuadable
+Non-Prime,5,0.3023235925989156,No,Digital_Music_Purchase,5,1,Lost Cause
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Non-Prime,5,0.8113859845037992,No,Apparel,35,34,Sleeper
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,4,0.7854862445379855,No,Apparel,7,4,Persuadable
+Non-Prime,3,0.7864058920251816,No,Apparel,17,13,Persuadable
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,4,0.7710004383767488,No,Apparel,9,3,Lost Cause
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7899660967301603,No,Apparel,6,4,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7923350123790284,No,Apparel,10,8,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.3246082588678925,No,Digital_Music_Purchase,0,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,3,0.7845941618177171,No,Apparel,14,10,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,5,0.7836688596158804,No,Apparel,4,1,Persuadable
+Non-Prime,2,0.7646431243342748,No,Apparel,16,8,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.8113859845037992,No,Apparel,35,34,Sleeper
+Non-Prime,4,0.7949617289982128,No,Apparel,6,5,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.12666706170723838,No,Health & Personal Care,0,0,Lost Cause
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Non-Prime,5,0.3253945598991986,No,Digital_Music_Purchase,1,1,Lost Cause
+Non-Prime,5,0.7836688596158804,No,Apparel,4,1,Persuadable
+Non-Prime,1,0.7413921610677957,No,Apparel,15,3,Lost Cause
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.7845941618177171,No,Apparel,14,10,Persuadable
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,5,0.7435395896286738,No,Automotive,0,0,Lost Cause
+Non-Prime,3,0.7845941618177171,No,Apparel,14,10,Persuadable
+Non-Prime,2,0.12451212346611629,No,Health & Personal Care,3,2,Lost Cause
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Non-Prime,3,0.8022681476897101,No,Apparel,78,70,Sleeper
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,1,0.261180766008423,No,Digital_Music_Purchase,16,4,Lost Cause
+Non-Prime,1,0.261180766008423,No,Digital_Music_Purchase,16,4,Lost Cause
+Non-Prime,4,0.78757740275796,No,Apparel,2,0,Persuadable
+Non-Prime,2,0.7961277137296114,No,Apparel,8,7,Sure Thing
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,4,0.776319437867619,No,Apparel,9,4,Persuadable
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,5,0.7920251466433884,No,Apparel,1,0,Persuadable
+Non-Prime,3,0.7932034866730083,No,Apparel,3,2,Sure Thing
+Non-Prime,3,0.6742702088079762,No,Baby,15,12,Lost Cause
+Non-Prime,5,0.7998686429245112,No,Apparel,6,6,Sleeper
+Non-Prime,3,0.7845941618177171,No,Apparel,14,10,Persuadable
+Non-Prime,4,0.7937908030169029,No,Apparel,4,3,Sure Thing
+Non-Prime,5,0.43795139249108533,No,Health & Personal Care,1842,1680,Lost Cause
+Non-Prime,5,0.7987186440611279,No,Apparel,4,4,Sleeper
+Non-Prime,3,0.7794779426804356,No,Apparel,48,39,Persuadable
+Non-Prime,5,0.7836688596158804,No,Apparel,4,1,Persuadable
+Non-Prime,5,0.7887742221397077,No,Apparel,4,2,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,5,0.32032095325902354,No,Digital_Music_Purchase,3,2,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,4,0.7854862445379855,No,Apparel,7,4,Persuadable
+Non-Prime,5,0.7975637094864633,No,Apparel,2,2,Sleeper
+Non-Prime,5,0.7981417938668754,No,Apparel,3,3,Sleeper
+Non-Prime,3,0.7498721018849952,No,Apparel,19,8,Lost Cause
+Non-Prime,5,0.7744466915184317,No,Apparel,6,1,Persuadable
+Non-Prime,3,0.12373278988423611,No,Health & Personal Care,1,0,Lost Cause
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
+Non-Prime,5,0.7881764305470706,No,Apparel,3,1,Persuadable
+Non-Prime,2,0.7969843906800329,No,Apparel,1,1,Sleeper
+Non-Prime,4,0.31876226510562944,No,Digital_Music_Purchase,1,0,Lost Cause
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,3,0.8345204800607552,No,Apparel,198,183,Sleeper
+Non-Prime,1,0.261180766008423,No,Digital_Music_Purchase,16,4,Lost Cause
+Non-Prime,4,0.467533491571674,No,Camera,1,1,Lost Cause
+Non-Prime,3,0.7845941618177171,No,Apparel,14,10,Persuadable
+Non-Prime,5,0.7926149345857402,No,Apparel,2,1,Persuadable
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,4,0.7893707775305534,No,Apparel,5,3,Persuadable
+Non-Prime,4,0.7943768837445078,No,Apparel,5,4,Sure Thing
+Non-Prime,5,0.7964038372225929,No,Apparel,0,0,Sure Thing
