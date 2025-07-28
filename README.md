@@ -120,7 +120,7 @@ For licensing, commercial use, or collaboration inquiries, please contact: Linke
 
 ---
 
-## 🔖 References (APA Format)
+## 🔖 References
 
 - Amazon Customer Reviews Dataset. (2023). Amazon Web Services. https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt  
 - Gutierrez, P., & Gérardy, J.-Y. (2017). Causal inference and uplift modeling: A review of the literature. *Proceedings of the Machine Learning Research*, 4(1), 1–13.  
